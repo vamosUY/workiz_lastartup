@@ -24,10 +24,10 @@ python3 app.py
 ```
 lsw = LaStartup_Workiz()
 
-# Insert new sample | True for saving
+# Insert new Term | True for saving
 #data = lsw.insert_new_sample(data, True)
 
-# Remove last inserted sample | True for updating
+# Remove last inserted Term | True for updating
 #data = lsw.remove_last_row(data, True)
 
 # Run App
